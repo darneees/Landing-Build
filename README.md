@@ -36,6 +36,7 @@ O intuito desse projeto é inteiramente colocar em prática o meu conhecimento a
 
 ## Deployed
 
+https://darneees.github.io/Landing-Build/
  
 
 <h3 align="center">
